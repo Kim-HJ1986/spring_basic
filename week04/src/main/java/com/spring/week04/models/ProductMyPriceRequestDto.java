@@ -1,2 +1,8 @@
-package com.spring.week04.models;public class ProductMyPriceRequestDto {
+package com.spring.week04.models;
+
+import lombok.Getter;
+
+@Getter
+public class ProductMyPriceRequestDto {
+    private int myprice;
 }

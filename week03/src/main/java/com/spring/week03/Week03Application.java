@@ -5,6 +5,9 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 @EnableJpaAuditing // JPA auditing 넣어줘야함!
 @SpringBootApplication
 public class Week03Application {

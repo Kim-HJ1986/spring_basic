@@ -1,4 +1,4 @@
-package com.spring.week04.domain;
+package com.spring.week04.models;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;
